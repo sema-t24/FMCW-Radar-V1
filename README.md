@@ -1,14 +1,37 @@
-# FMCW-Radar-V1
+# FMCW-Radar
+
 In diesem Projekt wird schrittweise ein einfaches FMCW Radar in Matlab entwickelt.
-# Vorgehensweise
-1. Allgemeine Vorstellung der Dopplerverschiebung udn Entfernungsermittlung
-2. Konstante Zahlen ersetzen durch einen Chirp
-3. Ausgesendetes Signal Empfangen
-4. Mischen der Signale zur Ermittlung der Beat-Frequenz
-5. Zeitsignal in Frequenzsignal umwandeln mithilfe der Fourier Transformation
-6. Signale filtern mithilfe eines Tiefpasses
-7. Anpassung der Parameter
-# Ziel des Projekts
+
+## Projektidee
+
 Verständnis der Signalverarbeitung und physikalischen Grundlagen vor der Nutzung von Toolbox-Funktionen.
-# Ausblick
-geplante Erweiterungen: mehrere Ziele, Modell mit Rauschen, CFAR, MTI, Target Tracking und KI-gestützte Objektklassifikation
+
+## Vorgehensweise
+
+1. Allgemeine Vorstellung der Dopplerverschiebung und Entfernungsermittlung
+2. Erzeugung eines linearen FMCW-Chirps
+3. Simulation eines verzögerten Echos
+4. Mischung des Sende- und Empfangssignals
+5. Zeitsignal in Frequenzsignal umwandeln mithilfe der Fourier Transformation
+6. Filterung des Beat-Signals mithilfe eines Tiefpass
+7. bestimmung der Objektentfernung aus der Beat-Frequenz
+
+## Ziel des Projekts
+
+Das Projekt dient als Einstieg in die Themen:
+
+- FMCW-Radar
+- Signalverarbeitung
+- Fourier-Transformation
+- Radarsignal-Simulation
+- MATLAB
+
+## Ausblick
+
+Als nächster Schritt soll die Simulation um realistischere Modelle erweitert werden, beispielsweise:
+- mehrere Ziele
+- Rauschmodelle
+- CFAR
+- MTI
+- Target Tracking
+- KI-gestützte Objektklassifikation
