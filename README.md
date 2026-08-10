@@ -10,3 +10,5 @@ In diesem Projekt wird schrittweise ein einfaches FMCW Radar in Matlab entwickel
 7. Anpassung der Parameter
 # Ziel des Projekts
 Verständnis der Signalverarbeitung und physikalischen Grundlagen vor der Nutzung von Toolbox-Funktionen.
+# Ausblick
+geplante Erweiterungen: mehrere Ziele, Modell mit Rauschen, CFAR, MTI, Target Tracking und KI-gestützte Objektklassifikation
