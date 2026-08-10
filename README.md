@@ -1,5 +1,5 @@
 # FMCW-Radar-V1
-In diesem Projekt wird schrittweise ein einfaches FMCW Radar erstellt.
+In diesem Projekt wird schrittweise ein einfaches FMCW Radar in Matlab entwickelt.
 # Vorgehensweise
 1. Allgemeine Vorstellung der Dopplerverschiebung udn Entfernungsermittlung
 2. Konstante Zahlen ersetzen durhc einen Chirp
