@@ -14,7 +14,7 @@ Verständnis der Signalverarbeitung und physikalischen Grundlagen vor der Nutzun
 4. Mischung des Sende- und Empfangssignals
 5. Zeitsignal in Frequenzsignal umwandeln mithilfe der Fourier Transformation
 6. Filterung des Beat-Signals mithilfe eines Tiefpass
-7. bestimmung der Objektentfernung aus der Beat-Frequenz
+7. Bestimmung der Objektentfernung aus der Beat-Frequenz
 
 ## Ziel des Projekts
 
